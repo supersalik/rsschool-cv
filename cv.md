@@ -1,5 +1,7 @@
 # **Dzmitry Salivon**
 
+![My photo](/1.jpg)
+
 ## **Front-End Developer**
 
 ### **Contact**
@@ -13,6 +15,8 @@
 #### \* **LinkedIn:** [Dzmitry Salivon](https://www.linkedin.com/in/dzmitry-salivon-a1b03115a/)
 
 #### \* **GitHub:** [supersalik](https://github.com/supersalik)
+
+#### \* **Discord:** [Salik#9633](https://github.com/supersalik)
 
 ### **Summary**
 
