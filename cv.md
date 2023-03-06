@@ -16,7 +16,7 @@
 
 #### \* **GitHub:** [supersalik](https://github.com/supersalik)
 
-#### \* **Discord:** [Salik#9633](https://github.com/supersalik)
+#### \* **Discord:** Salik#9633
 
 ### **Summary**
 
