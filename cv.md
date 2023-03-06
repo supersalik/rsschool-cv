@@ -16,23 +16,23 @@
 
 ### **Summary**
 
-#### An experienced team-player in shortterm and long projescts engeneer in mechanical engineering. Have strong technical backgroung and soft-skills, which allow me solve differnt tasts during a project. Currently I hard work to boots my knowledge, skills, experience and contacts in front-end development. After work and study I love hiking and cycling.
+An experienced team-player in short term and long projects engineer in mechanical engineering. Have strong technical background and soft-skills, which allow me solve different parts of a project. Currently I hard work to boost my knowledge, skills, experience and contacts in front-end development. After work and study I love hiking and cycling.
 
 ### **Skills**
 
-#### \* JavaScript
+\* JavaScript
 
-#### \* HTML
+\* HTML
 
-#### \* CSS
+\* CSS
 
-#### \* VSCode
+\* VSCode
 
-#### \* Pascal
+\* Pascal
 
-#### \* Windows OS
+\* Windows OS
 
-#### \* MS Office
+\* MS Office
 
 ### **Code examples**
 
@@ -58,30 +58,30 @@ function decode(expr) {
 
 ### **Education**
 
-#### \* **_RS School. JavaScript/Front-end 2023Q1. Currently_**
+\* **_RS School. JavaScript/Front-end 2023Q1. Currently_**
 
-#### \* UDEMY. Jonas Schmedmann. The Complete JavaScript Course 2023: From Zero to Expert! 60%
+\* **UDEMY. Jonas Schmedmann. The Complete JavaScript Course 2023: From Zero to Expert! 60%**
 
-#### \* Belarusian National Technical University. Hydraulic and Pneumatic Systems. 2010
+\* Belarusian National Technical University. Hydraulic and Pneumatic Systems. 2010
 
 ### **Experience**
 
-#### \* 2010-2012 MAZ-Kupava LLC. Design Engineer
+\* 2010-2012 Minsk. MAZ-Kupava LLC. Design Engineer
 
-#### \* 2012-2014 MEMPEX LLC. Design eEngineer
+\* 2012-2014 Minsk. MEMPEX LLC. Design eEngineer
 
-#### \* 2014-2016 MEMPEX LLC. Lead Design Engineer
+\* 2014-2016 Minsk. MEMPEX LLC. Lead Design Engineer
 
-#### \* 2016-2021 MEMPEX LLC. Chief Design Engineer
+\* 2016-2021 Minsk. MEMPEX LLC. Chief Design Engineer
 
-#### \* 2021-current IMI-Polska LLC. Design Engineer
+\* 2021-current Crakow. IMI-Polska LLC. Design Engineer
 
 ### **Languages**
 
-#### \* **English B2 (IELTS 6.5)**
+\* **English B2 (IELTS 6.5)**
 
-#### \* Polish B1
+\* Polish B1
 
-#### \* Belarusian Native
+\* Belarusian Native
 
-#### \* Rusian Native
+\* Rusian Native
