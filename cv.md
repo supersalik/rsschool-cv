@@ -78,7 +78,7 @@ function decode(expr) {
 
 \* 2016-2021 Minsk. MEMPEX LLC. Chief Design Engineer
 
-\* 2021-current Crakow. IMI-Polska LLC. Design Engineer
+\* 2021-Present Crakow. IMI-Polska LLC. Design Engineer
 
 ### **Languages**
 
