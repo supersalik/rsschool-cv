@@ -8,39 +8,39 @@ body {
   width: 80%;
   max-width: 1200px;
   min-height: 100px;
-  background-color: f8f7ff;
+  background-color: #695eb4;
   margin: 0px;
   display: grid;
-  grid-template-columns: 2fr 4fr;
+  grid-template-columns: auto 3px auto;
 }
 .left {
-  width: 250px;
-  block-size: auto;
-  position: initial;
-  background-color: #f0e19e;
+  width: fit-content;
+  /* block-size: auto; */
+  position: relative;
+  height: auto;
+  background-color: #b7b7a4;
   padding: 20px;
-  display: grid;
+}
+.line {
+  position: relative;
+  left: 0px;
+  width: auto;
+  height: auto;
+  background-color: #6b705c;
 }
 .main {
   block-size: fit-content;
-  position: initial;
-  background-color: f8f7ff;
+  position: relative;
+  background-color: #f8f7ff;
   padding: 20px;
-  display: grid;
 }
 .image,
 .Contact,
 .Skills,
-.Language,
-/* .title, */
-/* .Summary, */
-/* .Experience,
-.Education */ {
+.Language {
   margin-bottom: 20px;
 }
-.h2 {
-  background-color: rgb(4, 96, 150);
-}
+
 .image {
   width: fit-content;
   height: 176px;
@@ -48,5 +48,12 @@ body {
   border-width: 1px;
   border-style: solid;
   padding: 0px;
-  margin: 0%;
+  margin: 0 auto;
+}
+
+a {
+  color: black;
+}
+a:hover {
+  color: #332020;
 }
