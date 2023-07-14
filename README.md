@@ -1,1 +1,1 @@
-# rsschool-cv
+https://supersalik.github.io/rsschool-cv/cv
